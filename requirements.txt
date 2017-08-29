@@ -3,6 +3,7 @@ click==6.7
 Flask==0.12.2
 Flask-HTTPAuth==3.2.3
 Flask-SQLAlchemy==2.2
+gunicorn==19.7.1
 html5lib==0.999999999
 httplib2==0.10.3
 itsdangerous==0.24

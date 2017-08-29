@@ -1,1 +1,2 @@
-web: python vagrant/catalog/application.py
+web: gunicorn application:app --chdir vagrant/catalog
+
