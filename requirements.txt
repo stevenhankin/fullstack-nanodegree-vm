@@ -15,6 +15,7 @@ passlib==1.7.1
 psycopg2==2.7.3
 pyasn1==0.3.2
 pyasn1-modules==0.0.11
+pycurl==7.43.0
 pyparsing==2.2.0
 redis==2.10.5
 rsa==3.4.2
